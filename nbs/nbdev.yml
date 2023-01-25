@@ -2,8 +2,8 @@ project:
   output-dir: _docs
 
 website:
-  title: "data_engineering_zoomcamp"
-  site-url: "https://KalleBylin.github.io/data_engineering_zoomcamp"
+  title: "data-engineering-zoomcamp"
+  site-url: "https://KalleBylin.github.io/data-engineering-zoomcamp"
   description: "Code and notes for the Data Engineering Zoomcamp"
   repo-branch: main
-  repo-url: "https://github.com/KalleBylin/data_engineering_zoomcamp"
+  repo-url: "https://github.com/KalleBylin/data-engineering-zoomcamp"
