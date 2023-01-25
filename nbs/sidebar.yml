@@ -3,9 +3,9 @@ website:
     contents:
       - index.ipynb
       - section: Examples
-      contents:
-          - 01_tutorial.ipynb
+        contents:
+        - 01_tutorial.ipynb
       - section: Data
-      content:
-          - 00_core.ipynb
+        content:
+        - 00_core.ipynb
       
