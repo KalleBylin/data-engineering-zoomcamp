@@ -2,5 +2,10 @@ website:
   sidebar:
     contents:
       - index.ipynb
-      - 00_core.ipynb
-      - 01_tutorial.ipynb
+      - section: Examples
+      contents:
+          - 01_tutorial.ipynb
+      - section: Data
+      content:
+          - 00_core.ipynb
+      
